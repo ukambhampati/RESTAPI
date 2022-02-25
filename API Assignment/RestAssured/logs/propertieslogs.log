@@ -1,0 +1,515 @@
+[INFO ] 2022-02-25 15:28:33.896 [main] Log - Started validating /badges/recipients API
+[INFO ] 2022-02-25 15:28:39.702 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.703 [main] Log - RECIPIENT : robmisio RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.742 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.742 [main] Log - RECIPIENT : faceoff RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.778 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.778 [main] Log - RECIPIENT : Bob5421 RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.830 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.831 [main] Log - RECIPIENT : Matt RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.868 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.868 [main] Log - RECIPIENT : PovilasID RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.908 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.909 [main] Log - RECIPIENT : ah bon RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.947 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.947 [main] Log - RECIPIENT : Vijesh RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:39.993 [main] Log - Validated successfully that 26 is having User info
+[INFO ] 2022-02-25 15:28:39.994 [main] Log - RECIPIENT : LegendaryPepe RECEIVED BADGE ID :26 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.049 [main] Log - Validated successfully that 10 is having User info
+[INFO ] 2022-02-25 15:28:40.050 [main] Log - RECIPIENT : YueYue RECEIVED BADGE ID :10 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.116 [main] Log - Validated successfully that 10 is having User info
+[INFO ] 2022-02-25 15:28:40.117 [main] Log - RECIPIENT : Andy G RECEIVED BADGE ID :10 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.164 [main] Log - Validated successfully that 10 is having User info
+[INFO ] 2022-02-25 15:28:40.164 [main] Log - RECIPIENT : Benjamin Tan RECEIVED BADGE ID :10 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.206 [main] Log - Validated successfully that 14 is having User info
+[INFO ] 2022-02-25 15:28:40.206 [main] Log - RECIPIENT : Will P. RECEIVED BADGE ID :14 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.247 [main] Log - Validated successfully that 2 is having User info
+[INFO ] 2022-02-25 15:28:40.248 [main] Log - RECIPIENT : Taluu RECEIVED BADGE ID :2 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.302 [main] Log - Validated successfully that 1 is having User info
+[INFO ] 2022-02-25 15:28:40.302 [main] Log - RECIPIENT : Ganesh Lamichhane RECEIVED BADGE ID :1 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.364 [main] Log - Validated successfully that 13 is having User info
+[INFO ] 2022-02-25 15:28:40.364 [main] Log - RECIPIENT : Matthew RECEIVED BADGE ID :13 WITH RANK :silver
+[INFO ] 2022-02-25 15:28:40.412 [main] Log - Validated successfully that 13 is having User info
+[INFO ] 2022-02-25 15:28:40.413 [main] Log - RECIPIENT : DiogoSantana RECEIVED BADGE ID :13 WITH RANK :silver
+[INFO ] 2022-02-25 15:28:40.466 [main] Log - Validated successfully that 13 is having User info
+[INFO ] 2022-02-25 15:28:40.468 [main] Log - RECIPIENT : holi-java RECEIVED BADGE ID :13 WITH RANK :silver
+[INFO ] 2022-02-25 15:28:40.535 [main] Log - Validated successfully that 13 is having User info
+[INFO ] 2022-02-25 15:28:40.535 [main] Log - RECIPIENT : guidoism RECEIVED BADGE ID :13 WITH RANK :silver
+[INFO ] 2022-02-25 15:28:40.582 [main] Log - Validated successfully that 23 is having User info
+[INFO ] 2022-02-25 15:28:40.582 [main] Log - RECIPIENT : daydreamer RECEIVED BADGE ID :23 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.628 [main] Log - Validated successfully that 23 is having User info
+[INFO ] 2022-02-25 15:28:40.628 [main] Log - RECIPIENT : DSM RECEIVED BADGE ID :23 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.668 [main] Log - Validated successfully that 20 is having User info
+[INFO ] 2022-02-25 15:28:40.669 [main] Log - RECIPIENT : Will P. RECEIVED BADGE ID :20 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.701 [main] Log - Validated successfully that 2600 is having User info
+[INFO ] 2022-02-25 15:28:40.702 [main] Log - RECIPIENT : Aan BHANDEL RECEIVED BADGE ID :2600 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.730 [main] Log - Validated successfully that 9 is having User info
+[INFO ] 2022-02-25 15:28:40.730 [main] Log - RECIPIENT : Bjerrum Kokholm RECEIVED BADGE ID :9 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.759 [main] Log - Validated successfully that 9 is having User info
+[INFO ] 2022-02-25 15:28:40.759 [main] Log - RECIPIENT : Henry Gael Veiga RECEIVED BADGE ID :9 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.796 [main] Log - Validated successfully that 9 is having User info
+[INFO ] 2022-02-25 15:28:40.797 [main] Log - RECIPIENT : Kristiansen Cote RECEIVED BADGE ID :9 WITH RANK :bronze
+[INFO ] 2022-02-25 15:28:40.798 [main] Log - Completed validating /badges/recipients API call
+[INFO ] 2022-02-25 15:28:40.798 [main] Log - ############################################################################################
+[INFO ] 2022-02-25 15:28:40.798 [main] Log - Started validating invalid inputs for /badges/recipients API
+[INFO ] 2022-02-25 15:28:42.360 [main] Log - Validated successfully that reponse contains error_message :pagesize
+[INFO ] 2022-02-25 15:28:42.361 [main] Log - #################################################################################################
+[INFO ] 2022-02-25 15:28:42.361 [main] Log - Started validating invalid date format as input for fromdate and todate
+[INFO ] 2022-02-25 15:28:44.417 [main] Log - Validated successfully that reponse contains error_message :fromdate
+[INFO ] 2022-02-25 15:28:44.418 [main] Log - #################################################################################################
+[INFO ] 2022-02-25 15:28:44.418 [main] Log - Started Validating /badges/recipents API with border inputs of both fromdate and todate as today's date
+[INFO ] 2022-02-25 15:28:45.847 [main] Log - Validated successfully that reponse Code is :200
+[INFO ] 2022-02-25 15:28:45.848 [main] Log - #################################################################################################
+[INFO ] 2022-02-25 15:28:45.871 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:28:45.872 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:28:45.872 [main] Log - $$$$$$$$$$$$$$$$$$$$$                 TC_VerifyGetBadgeIDAPI       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-02-25 15:28:45.872 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:28:45.872 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:28:45.873 [main] Log - Started calling /badges api to get list of 100 badges that are ranked GOLD 
+[INFO ] 2022-02-25 15:28:47.375 [main] Log - Validated that Response code for GET Badges API call is successful :200
+[INFO ] 2022-02-25 15:28:47.414 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10023
+[INFO ] 2022-02-25 15:28:47.470 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8725
+[INFO ] 2022-02-25 15:28:47.494 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4186
+[INFO ] 2022-02-25 15:28:47.519 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8509
+[INFO ] 2022-02-25 15:28:47.550 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10169
+[INFO ] 2022-02-25 15:28:47.580 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9000
+[INFO ] 2022-02-25 15:28:47.597 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5236
+[INFO ] 2022-02-25 15:28:47.670 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10745
+[INFO ] 2022-02-25 15:28:47.688 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7487
+[INFO ] 2022-02-25 15:28:47.710 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8881
+[INFO ] 2022-02-25 15:28:47.728 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3067
+[INFO ] 2022-02-25 15:28:47.754 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :2858
+[INFO ] 2022-02-25 15:28:47.773 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :51
+[INFO ] 2022-02-25 15:28:47.795 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9696
+[INFO ] 2022-02-25 15:28:47.855 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6032
+[INFO ] 2022-02-25 15:28:47.870 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10214
+[INFO ] 2022-02-25 15:28:47.897 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4283
+[INFO ] 2022-02-25 15:28:47.923 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8347
+[INFO ] 2022-02-25 15:28:47.950 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6373
+[INFO ] 2022-02-25 15:28:47.972 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4898
+[INFO ] 2022-02-25 15:28:47.992 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8934
+[INFO ] 2022-02-25 15:28:48.055 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9833
+[INFO ] 2022-02-25 15:28:48.088 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8661
+[INFO ] 2022-02-25 15:28:48.107 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5961
+[INFO ] 2022-02-25 15:28:48.123 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4284
+[INFO ] 2022-02-25 15:28:48.137 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10584
+[INFO ] 2022-02-25 15:28:48.160 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9979
+[INFO ] 2022-02-25 15:28:48.176 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7798
+[INFO ] 2022-02-25 15:28:48.186 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5571
+[INFO ] 2022-02-25 15:28:48.226 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5410
+[INFO ] 2022-02-25 15:28:48.243 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :2942
+[INFO ] 2022-02-25 15:28:48.277 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9665
+[INFO ] 2022-02-25 15:28:48.289 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4637
+[INFO ] 2022-02-25 15:28:48.305 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9868
+[INFO ] 2022-02-25 15:28:48.317 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3557
+[INFO ] 2022-02-25 15:28:48.337 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5364
+[INFO ] 2022-02-25 15:28:48.353 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :2311
+[INFO ] 2022-02-25 15:28:48.369 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :169
+[INFO ] 2022-02-25 15:28:48.384 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3378
+[INFO ] 2022-02-25 15:28:48.408 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9678
+[INFO ] 2022-02-25 15:28:48.424 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9108
+[INFO ] 2022-02-25 15:28:48.470 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9421
+[INFO ] 2022-02-25 15:28:48.498 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9997
+[INFO ] 2022-02-25 15:28:48.530 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10748
+[INFO ] 2022-02-25 15:28:48.564 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8237
+[INFO ] 2022-02-25 15:28:48.583 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8982
+[INFO ] 2022-02-25 15:28:48.601 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10163
+[INFO ] 2022-02-25 15:28:48.639 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10760
+[INFO ] 2022-02-25 15:28:48.661 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5036
+[INFO ] 2022-02-25 15:28:48.689 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3637
+[INFO ] 2022-02-25 15:28:48.709 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10264
+[INFO ] 2022-02-25 15:28:48.722 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :1443
+[INFO ] 2022-02-25 15:28:48.751 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7520
+[INFO ] 2022-02-25 15:28:48.767 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6040
+[INFO ] 2022-02-25 15:28:48.786 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6223
+[INFO ] 2022-02-25 15:28:48.812 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3003
+[INFO ] 2022-02-25 15:28:48.828 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10623
+[INFO ] 2022-02-25 15:28:48.857 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9987
+[INFO ] 2022-02-25 15:28:48.898 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6893
+[INFO ] 2022-02-25 15:28:48.913 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7410
+[INFO ] 2022-02-25 15:28:48.933 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7954
+[INFO ] 2022-02-25 15:28:48.960 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8994
+[INFO ] 2022-02-25 15:28:48.978 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10560
+[INFO ] 2022-02-25 15:28:48.998 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9197
+[INFO ] 2022-02-25 15:28:49.012 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6665
+[INFO ] 2022-02-25 15:28:49.035 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :5532
+[INFO ] 2022-02-25 15:28:49.064 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :1446
+[INFO ] 2022-02-25 15:28:49.098 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :845
+[INFO ] 2022-02-25 15:28:49.126 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8961
+[INFO ] 2022-02-25 15:28:49.144 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :1227
+[INFO ] 2022-02-25 15:28:49.169 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :2958
+[INFO ] 2022-02-25 15:28:49.234 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :1058
+[INFO ] 2022-02-25 15:28:49.254 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7661
+[INFO ] 2022-02-25 15:28:49.281 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :85
+[INFO ] 2022-02-25 15:28:49.321 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7277
+[INFO ] 2022-02-25 15:28:49.353 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6848
+[INFO ] 2022-02-25 15:28:49.370 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7102
+[INFO ] 2022-02-25 15:28:49.391 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8741
+[INFO ] 2022-02-25 15:28:49.409 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4866
+[INFO ] 2022-02-25 15:28:49.423 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9849
+[INFO ] 2022-02-25 15:28:49.444 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8407
+[INFO ] 2022-02-25 15:28:49.465 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10784
+[INFO ] 2022-02-25 15:28:49.484 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10882
+[INFO ] 2022-02-25 15:28:49.504 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10725
+[INFO ] 2022-02-25 15:28:49.524 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6335
+[INFO ] 2022-02-25 15:28:49.539 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3930
+[INFO ] 2022-02-25 15:28:49.568 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3879
+[INFO ] 2022-02-25 15:28:49.584 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6490
+[INFO ] 2022-02-25 15:28:49.598 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :956
+[INFO ] 2022-02-25 15:28:49.613 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10870
+[INFO ] 2022-02-25 15:28:49.628 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :8687
+[INFO ] 2022-02-25 15:28:49.642 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :9836
+[INFO ] 2022-02-25 15:28:49.661 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6488
+[INFO ] 2022-02-25 15:28:49.676 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :2044
+[INFO ] 2022-02-25 15:28:49.692 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :4935
+[INFO ] 2022-02-25 15:28:49.706 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7121
+[INFO ] 2022-02-25 15:28:49.719 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :10867
+[INFO ] 2022-02-25 15:28:49.730 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :7850
+[INFO ] 2022-02-25 15:28:49.742 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :3994
+[INFO ] 2022-02-25 15:28:49.754 [main] Log - Validated successfully that GET BADGE ID API CALL RETUNED GOLD RANK BADGE ID :6779
+[INFO ] 2022-02-25 15:28:49.754 [main] Log - Completed validating JSON response of GET Badges API
+[INFO ] 2022-02-25 15:28:49.755 [main] Log - ################################################################################################
+[INFO ] 2022-02-25 15:28:49.755 [main] Log - Started validated invalid input for badges API call
+[INFO ] 2022-02-25 15:28:51.765 [main] Log - Completed validating error response code for invalid input MAX: GOLD and SORT: TYPE: 400
+[INFO ] 2022-02-25 15:28:51.765 [main] Log - ################################################################################################
+[INFO ] 2022-02-25 15:28:51.766 [main] Log - Started validating invalid input in pagesize
+[INFO ] 2022-02-25 15:28:53.601 [main] Log - Completed validating error response code for invalid input PAGESIZE>100 400
+[INFO ] 2022-02-25 15:28:53.601 [main] Log - ################################################################################################
+[INFO ] 2022-02-25 15:28:53.601 [main] Log - Started Validating /badges{ids} API by passing the output range of badge-ids from previous success call
+[INFO ] 2022-02-25 15:28:53.601 [main] Log - Badge IDS with semicolon delimited10023;8725;4186;8509;10169;9000;5236;10745;7487;8881;3067;2858;51;9696;6032;10214;4283;8347;6373;4898;8934;9833;8661;5961;4284;10584;9979;7798;5571;5410;2942;9665;4637;9868;3557;5364;2311;169;3378;9678;9108;9421;9997;10748;8237;8982;10163;10760;5036;3637;10264;1443;7520;6040;6223;3003;10623;9987;6893;7410;7954;8994;10560;9197;6665;5532;1446;845;8961;1227;2958;1058;7661;85;7277;6848;7102;8741;4866;9849;8407;10784;10882;10725;6335;3930;3879;6490;956;10870;8687;9836;6488;2044;4935;7121;10867;7850;3994;6779
+[INFO ] 2022-02-25 15:28:55.422 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7410
+[INFO ] 2022-02-25 15:28:55.437 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7487
+[INFO ] 2022-02-25 15:28:55.448 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7520
+[INFO ] 2022-02-25 15:28:55.459 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7661
+[INFO ] 2022-02-25 15:28:55.473 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7798
+[INFO ] 2022-02-25 15:28:55.487 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7850
+[INFO ] 2022-02-25 15:28:55.500 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7954
+[INFO ] 2022-02-25 15:28:55.513 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8237
+[INFO ] 2022-02-25 15:28:55.527 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8347
+[INFO ] 2022-02-25 15:28:55.538 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8407
+[INFO ] 2022-02-25 15:28:55.548 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8509
+[INFO ] 2022-02-25 15:28:55.562 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8661
+[INFO ] 2022-02-25 15:28:55.577 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8687
+[INFO ] 2022-02-25 15:28:55.600 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8725
+[INFO ] 2022-02-25 15:28:55.613 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8741
+[INFO ] 2022-02-25 15:28:55.631 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8881
+[INFO ] 2022-02-25 15:28:55.645 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8934
+[INFO ] 2022-02-25 15:28:55.657 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8961
+[INFO ] 2022-02-25 15:28:55.713 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8982
+[INFO ] 2022-02-25 15:28:55.727 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :8994
+[INFO ] 2022-02-25 15:28:55.740 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9000
+[INFO ] 2022-02-25 15:28:55.750 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9108
+[INFO ] 2022-02-25 15:28:55.765 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9197
+[INFO ] 2022-02-25 15:28:55.778 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9421
+[INFO ] 2022-02-25 15:28:55.791 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9665
+[INFO ] 2022-02-25 15:28:55.802 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9678
+[INFO ] 2022-02-25 15:28:55.819 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9696
+[INFO ] 2022-02-25 15:28:55.835 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9833
+[INFO ] 2022-02-25 15:28:55.845 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9836
+[INFO ] 2022-02-25 15:28:55.854 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9849
+[INFO ] 2022-02-25 15:28:55.867 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9868
+[INFO ] 2022-02-25 15:28:55.883 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9979
+[INFO ] 2022-02-25 15:28:55.917 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9987
+[INFO ] 2022-02-25 15:28:55.937 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :9997
+[INFO ] 2022-02-25 15:28:55.948 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10023
+[INFO ] 2022-02-25 15:28:55.960 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10163
+[INFO ] 2022-02-25 15:28:55.973 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10169
+[INFO ] 2022-02-25 15:28:55.987 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10214
+[INFO ] 2022-02-25 15:28:56.000 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10264
+[INFO ] 2022-02-25 15:28:56.010 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10560
+[INFO ] 2022-02-25 15:28:56.023 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10584
+[INFO ] 2022-02-25 15:28:56.036 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10623
+[INFO ] 2022-02-25 15:28:56.048 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10725
+[INFO ] 2022-02-25 15:28:56.062 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10745
+[INFO ] 2022-02-25 15:28:56.076 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10748
+[INFO ] 2022-02-25 15:28:56.102 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10760
+[INFO ] 2022-02-25 15:28:56.116 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10784
+[INFO ] 2022-02-25 15:28:56.135 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10867
+[INFO ] 2022-02-25 15:28:56.145 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10870
+[INFO ] 2022-02-25 15:28:56.167 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :10882
+[INFO ] 2022-02-25 15:28:56.183 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :51
+[INFO ] 2022-02-25 15:28:56.197 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :85
+[INFO ] 2022-02-25 15:28:56.207 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :169
+[INFO ] 2022-02-25 15:28:56.218 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :845
+[INFO ] 2022-02-25 15:28:56.232 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :956
+[INFO ] 2022-02-25 15:28:56.244 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :1058
+[INFO ] 2022-02-25 15:28:56.254 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :1227
+[INFO ] 2022-02-25 15:28:56.269 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :1443
+[INFO ] 2022-02-25 15:28:56.282 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :1446
+[INFO ] 2022-02-25 15:28:56.295 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :2044
+[INFO ] 2022-02-25 15:28:56.307 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :2311
+[INFO ] 2022-02-25 15:28:56.321 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :2858
+[INFO ] 2022-02-25 15:28:56.333 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :2942
+[INFO ] 2022-02-25 15:28:56.343 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :2958
+[INFO ] 2022-02-25 15:28:56.354 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3003
+[INFO ] 2022-02-25 15:28:56.367 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3067
+[INFO ] 2022-02-25 15:28:56.386 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3378
+[INFO ] 2022-02-25 15:28:56.402 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3557
+[INFO ] 2022-02-25 15:28:56.417 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3637
+[INFO ] 2022-02-25 15:28:56.430 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3879
+[INFO ] 2022-02-25 15:28:56.439 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3930
+[INFO ] 2022-02-25 15:28:56.456 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :3994
+[INFO ] 2022-02-25 15:28:56.466 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4186
+[INFO ] 2022-02-25 15:28:56.478 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4283
+[INFO ] 2022-02-25 15:28:56.486 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4284
+[INFO ] 2022-02-25 15:28:56.496 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4637
+[INFO ] 2022-02-25 15:28:56.506 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4866
+[INFO ] 2022-02-25 15:28:56.515 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4898
+[INFO ] 2022-02-25 15:28:56.524 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :4935
+[INFO ] 2022-02-25 15:28:56.534 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5036
+[INFO ] 2022-02-25 15:28:56.544 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5236
+[INFO ] 2022-02-25 15:28:56.556 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5364
+[INFO ] 2022-02-25 15:28:56.575 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5410
+[INFO ] 2022-02-25 15:28:56.589 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5532
+[INFO ] 2022-02-25 15:28:56.602 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5571
+[INFO ] 2022-02-25 15:28:56.614 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :5961
+[INFO ] 2022-02-25 15:28:56.627 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6032
+[INFO ] 2022-02-25 15:28:56.639 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6040
+[INFO ] 2022-02-25 15:28:56.651 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6223
+[INFO ] 2022-02-25 15:28:56.661 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6335
+[INFO ] 2022-02-25 15:28:56.684 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6373
+[INFO ] 2022-02-25 15:28:56.696 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6488
+[INFO ] 2022-02-25 15:28:56.705 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6490
+[INFO ] 2022-02-25 15:28:56.717 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6665
+[INFO ] 2022-02-25 15:28:56.729 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6779
+[INFO ] 2022-02-25 15:28:56.746 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6848
+[INFO ] 2022-02-25 15:28:56.782 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :6893
+[INFO ] 2022-02-25 15:28:56.794 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7102
+[INFO ] 2022-02-25 15:28:56.808 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7121
+[INFO ] 2022-02-25 15:28:56.816 [main] Log - Validated successfully that GET BADGE IDS API CALL CONTAINS BADGE ID :7277
+[INFO ] 2022-02-25 15:28:56.816 [main] Log - Validated successfully that /badge{ids} API call s working as expected
+[INFO ] 2022-02-25 15:28:56.816 [main] Log - ################################################################################################
+[INFO ] 2022-02-25 15:28:56.816 [main] Log - Started checking invalid input of sort: type and max:gold for badge{id} API
+[INFO ] 2022-02-25 15:28:58.224 [main] Log - Validated successfully that response code is 400when input is invalid
+[INFO ] 2022-02-25 15:28:58.225 [main] Log - ################################################################################################
+[INFO ] 2022-02-25 15:28:58.225 [main] Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2022-02-25 15:28:58.225 [main] Log - X
+[INFO ] 2022-02-25 15:28:58.225 [main] Log - X
+[INFO ] 2022-02-25 15:28:58.225 [main] Log - X
+[INFO ] 2022-02-25 15:28:58.226 [main] Log - X
+[INFO ] 2022-02-25 15:28:58.232 [main] Log - Started validating /badges/tags API to get tag_based badge details with silver rank
+[INFO ] 2022-02-25 15:28:59.527 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9541
+[INFO ] 2022-02-25 15:28:59.527 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9541AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.538 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id132
+[INFO ] 2022-02-25 15:28:59.538 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :132AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.550 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id81
+[INFO ] 2022-02-25 15:28:59.550 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :81AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.563 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1530
+[INFO ] 2022-02-25 15:28:59.563 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1530AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.573 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1866
+[INFO ] 2022-02-25 15:28:59.573 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1866AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.585 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7324
+[INFO ] 2022-02-25 15:28:59.585 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7324AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.596 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6139
+[INFO ] 2022-02-25 15:28:59.597 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6139AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.607 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2512
+[INFO ] 2022-02-25 15:28:59.607 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2512AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.615 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7253
+[INFO ] 2022-02-25 15:28:59.615 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7253AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.625 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7271
+[INFO ] 2022-02-25 15:28:59.625 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7271AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.636 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6772
+[INFO ] 2022-02-25 15:28:59.636 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6772AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.647 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id198
+[INFO ] 2022-02-25 15:28:59.647 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :198AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.660 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2705
+[INFO ] 2022-02-25 15:28:59.660 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2705AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.669 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id5358
+[INFO ] 2022-02-25 15:28:59.669 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :5358AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.677 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9078
+[INFO ] 2022-02-25 15:28:59.677 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9078AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.690 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2445
+[INFO ] 2022-02-25 15:28:59.690 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2445AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.702 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4166
+[INFO ] 2022-02-25 15:28:59.702 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4166AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.713 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7618
+[INFO ] 2022-02-25 15:28:59.713 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7618AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.723 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8521
+[INFO ] 2022-02-25 15:28:59.723 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8521AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.733 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8862
+[INFO ] 2022-02-25 15:28:59.734 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8862AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.745 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4667
+[INFO ] 2022-02-25 15:28:59.745 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4667AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.757 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10081
+[INFO ] 2022-02-25 15:28:59.757 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10081AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.770 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6045
+[INFO ] 2022-02-25 15:28:59.770 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6045AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.782 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10034
+[INFO ] 2022-02-25 15:28:59.782 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10034AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.799 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6908
+[INFO ] 2022-02-25 15:28:59.799 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6908AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.814 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4452
+[INFO ] 2022-02-25 15:28:59.814 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4452AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.827 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2426
+[INFO ] 2022-02-25 15:28:59.827 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2426AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.840 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7461
+[INFO ] 2022-02-25 15:28:59.840 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7461AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.851 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8491
+[INFO ] 2022-02-25 15:28:59.851 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8491AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.862 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id3969
+[INFO ] 2022-02-25 15:28:59.862 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :3969AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.876 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2353
+[INFO ] 2022-02-25 15:28:59.876 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2353AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.886 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9736
+[INFO ] 2022-02-25 15:28:59.886 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9736AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.903 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8643
+[INFO ] 2022-02-25 15:28:59.903 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8643AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.921 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1498
+[INFO ] 2022-02-25 15:28:59.922 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1498AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.944 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4392
+[INFO ] 2022-02-25 15:28:59.944 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4392AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.955 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id5759
+[INFO ] 2022-02-25 15:28:59.955 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :5759AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.967 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8213
+[INFO ] 2022-02-25 15:28:59.967 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8213AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:28:59.979 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4899
+[INFO ] 2022-02-25 15:28:59.979 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4899AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.001 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6125
+[INFO ] 2022-02-25 15:29:00.001 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6125AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.029 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8555
+[INFO ] 2022-02-25 15:29:00.030 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8555AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.069 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6113
+[INFO ] 2022-02-25 15:29:00.069 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6113AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.083 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2575
+[INFO ] 2022-02-25 15:29:00.083 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2575AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.095 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2070
+[INFO ] 2022-02-25 15:29:00.095 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2070AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.106 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6115
+[INFO ] 2022-02-25 15:29:00.106 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6115AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.116 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1975
+[INFO ] 2022-02-25 15:29:00.116 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1975AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.130 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10737
+[INFO ] 2022-02-25 15:29:00.130 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10737AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.144 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8078
+[INFO ] 2022-02-25 15:29:00.144 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8078AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.159 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4545
+[INFO ] 2022-02-25 15:29:00.159 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4545AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.170 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9551
+[INFO ] 2022-02-25 15:29:00.170 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9551AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.187 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10555
+[INFO ] 2022-02-25 15:29:00.187 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10555AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.201 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6652
+[INFO ] 2022-02-25 15:29:00.201 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6652AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.213 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8404
+[INFO ] 2022-02-25 15:29:00.213 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8404AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.223 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10552
+[INFO ] 2022-02-25 15:29:00.223 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10552AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.241 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9863
+[INFO ] 2022-02-25 15:29:00.241 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9863AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.259 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10422
+[INFO ] 2022-02-25 15:29:00.259 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10422AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.320 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id5978
+[INFO ] 2022-02-25 15:29:00.322 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :5978AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.336 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9040
+[INFO ] 2022-02-25 15:29:00.336 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9040AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.353 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id3725
+[INFO ] 2022-02-25 15:29:00.353 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :3725AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.366 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id135
+[INFO ] 2022-02-25 15:29:00.367 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :135AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.413 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id5557
+[INFO ] 2022-02-25 15:29:00.413 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :5557AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.426 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1302
+[INFO ] 2022-02-25 15:29:00.427 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1302AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.437 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id3972
+[INFO ] 2022-02-25 15:29:00.437 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :3972AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.449 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9238
+[INFO ] 2022-02-25 15:29:00.449 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9238AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.461 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7057
+[INFO ] 2022-02-25 15:29:00.461 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7057AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.474 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1748
+[INFO ] 2022-02-25 15:29:00.474 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1748AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.495 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id5102
+[INFO ] 2022-02-25 15:29:00.495 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :5102AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.509 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8203
+[INFO ] 2022-02-25 15:29:00.509 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8203AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.521 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1824
+[INFO ] 2022-02-25 15:29:00.521 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1824AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.534 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id992
+[INFO ] 2022-02-25 15:29:00.534 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :992AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.575 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6873
+[INFO ] 2022-02-25 15:29:00.575 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6873AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.590 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9012
+[INFO ] 2022-02-25 15:29:00.590 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9012AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.606 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2781
+[INFO ] 2022-02-25 15:29:00.606 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2781AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.644 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6470
+[INFO ] 2022-02-25 15:29:00.645 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6470AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.663 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id3653
+[INFO ] 2022-02-25 15:29:00.663 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :3653AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.679 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9611
+[INFO ] 2022-02-25 15:29:00.680 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9611AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.707 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8783
+[INFO ] 2022-02-25 15:29:00.707 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8783AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.727 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7433
+[INFO ] 2022-02-25 15:29:00.727 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7433AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.740 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4716
+[INFO ] 2022-02-25 15:29:00.740 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4716AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.760 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4222
+[INFO ] 2022-02-25 15:29:00.760 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4222AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.777 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6238
+[INFO ] 2022-02-25 15:29:00.777 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6238AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.789 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10850
+[INFO ] 2022-02-25 15:29:00.789 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10850AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.801 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7705
+[INFO ] 2022-02-25 15:29:00.801 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7705AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.812 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7226
+[INFO ] 2022-02-25 15:29:00.812 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7226AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.822 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10499
+[INFO ] 2022-02-25 15:29:00.822 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10499AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.832 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id9329
+[INFO ] 2022-02-25 15:29:00.832 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :9329AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.847 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10688
+[INFO ] 2022-02-25 15:29:00.847 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10688AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.868 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10776
+[INFO ] 2022-02-25 15:29:00.868 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10776AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.882 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10036
+[INFO ] 2022-02-25 15:29:00.882 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10036AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.895 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id6022
+[INFO ] 2022-02-25 15:29:00.895 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :6022AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.905 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8648
+[INFO ] 2022-02-25 15:29:00.905 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8648AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.917 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id4461
+[INFO ] 2022-02-25 15:29:00.917 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :4461AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.929 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id3838
+[INFO ] 2022-02-25 15:29:00.929 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :3838AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.942 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id3350
+[INFO ] 2022-02-25 15:29:00.942 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :3350AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.953 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id2396
+[INFO ] 2022-02-25 15:29:00.954 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :2396AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.970 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id5760
+[INFO ] 2022-02-25 15:29:00.971 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :5760AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.984 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id7579
+[INFO ] 2022-02-25 15:29:00.984 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :7579AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:00.996 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10629
+[INFO ] 2022-02-25 15:29:00.996 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10629AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:01.010 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id10733
+[INFO ] 2022-02-25 15:29:01.010 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :10733AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:01.026 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id8499
+[INFO ] 2022-02-25 15:29:01.027 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :8499AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:01.038 [main] Log - Validated successfully that basde_type and rank are as expected for badge_id1646
+[INFO ] 2022-02-25 15:29:01.038 [main] Log - Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :1646AND IS ALSO TAGBASED
+[INFO ] 2022-02-25 15:29:01.038 [main] Log - ########################################################################################################
+[INFO ] 2022-02-25 15:29:01.038 [main] Log - Started validating /badges/tags API with invalid input in queryparam : min
+[INFO ] 2022-02-25 15:29:02.499 [main] Log - VALIDATED SUCCESSFULLY THAT 400 RESPONSE CODE IS DISPLAYED FOR INVALID RANK
+[INFO ] 2022-02-25 15:29:02.499 [main] Log - ########################################################################################################
+[INFO ] 2022-02-25 15:29:02.499 [main] Log - Started validating /badges/tags API with pagesize:1.... 
+[INFO ] 2022-02-25 15:29:03.734 [main] Log - JSON BODY OF TAGS API WHEN INPUT OF PAGESIZE IS 1 IS AS BELOW
+[INFO ] 2022-02-25 15:29:03.735 [main] Log - {
+    "items": [
+        {
+            "badge_type": "tag_based",
+            "award_count": 207,
+            "rank": "gold",
+            "badge_id": 208,
+            "link": "https://stackoverflow.com/badges/208/r",
+            "name": "r"
+        }
+    ],
+    "has_more": true,
+    "quota_max": 300,
+    "quota_remaining": 275
+}
+[INFO ] 2022-02-25 15:29:03.735 [main] Log - ########################################################################################################
+[INFO ] 2022-02-25 15:29:03.735 [main] Log - Started validating /badges/tags API with invalid input in query param page
+[INFO ] 2022-02-25 15:29:05.353 [main] Log - VALIDATED SUCCESSFULLY THAT 403 ERROR ID IS DISPLAYED FOR PAGELIMIT GREATER THAN 25
+[INFO ] 2022-02-25 15:29:05.353 [main] Log - ########################################################################################################

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="BadgesAPITest">
+  <parameter name="code" value="i69lRU7HjFYXeig9lmfOQA))"></parameter>
+    <classes>
+      <class name="scripts.TC_VerifyGetBadgeReceipientsAPI"/>
+      <class name="scripts.TC_VerifyGetBadgeIDAPI"/>
+      <class name="scripts.TC_VerifyGetTagsAPI"/>
+    </classes>
+  </test> <!-- BadgesAPITest -->
+</suite> <!-- Suite -->
