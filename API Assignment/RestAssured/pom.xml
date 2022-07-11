@@ -213,7 +213,7 @@
 		<configuration>
 			<suiteXmlFiles>
 				<!-- TestNG suite XML files -->
-				<suiteXmlFile>RESTAPI/API Assignment/RestAssured/testng.xml</suiteXmlFile>
+				<suiteXmlFile>testng.xml</suiteXmlFile>
 			</suiteXmlFiles>
 		</configuration>
 	</plugin>
