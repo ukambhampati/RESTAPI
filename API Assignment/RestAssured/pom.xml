@@ -217,7 +217,7 @@
 			</suiteXmlFiles>
 		</configuration>
 	</plugin>
-      <plugins>
+      </plugins>
     </pluginManagement>
     </build>
 </project>
