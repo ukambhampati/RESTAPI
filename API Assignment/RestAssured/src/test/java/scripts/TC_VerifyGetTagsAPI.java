@@ -49,8 +49,8 @@ public class TC_VerifyGetTagsAPI extends InitializeAndDeInitialize {
 			badge_ids = path.getMap("items["+i+"]");
 			Assert.assertEquals(badge_ids.get("rank"), "silver");
 			Assert.assertEquals(badge_ids.get("badge_type"),"tag_based");
-			Log.info("Validated successfully that basde_type and rank are as expected for badge_id"+badge_ids.get("badge_id").toString());
-			Log.info("Validated successfully that GET BADGE TAGS API CALL RETUNED SILVER RANK BADGE ID :"+ badge_ids.get("badge_id").toString()+"AND IS ALSO TAGBASED");			
+			Log.info("Validated successfully that badge_type and rank are as expected for badge_id"+badge_ids.get("badge_id").toString());
+			Log.info("Validated successfully that GET BADGE TAGS API CALL RETURNED SILVER RANK BADGE ID :"+ badge_ids.get("badge_id").toString()+"AND IS ALSO TAGBASED");			
 		}
 		Log.info("########################################################################################################");
 		
